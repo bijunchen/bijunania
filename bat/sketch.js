@@ -3,6 +3,8 @@
 //oct 26
 //bat block for the building
 //random images
+//special thanks to Minsheng 
+
 var img1, img2, img3, img4, img5, img6;
 var imgs;
 
